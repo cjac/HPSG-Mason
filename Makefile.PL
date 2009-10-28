@@ -10,5 +10,6 @@ all_from       'lib/HPSG/Mason.pm';
 requires       'HTML::Mason' => 1.39;
 test_requires  'Test::More'  => '0.42';
 install_share 'share';
+sign;
   
 WriteAll;

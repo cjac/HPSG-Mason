@@ -5,13 +5,7 @@ use strict;
 
 HPSG::Mason::Interp - Mason components for rendering Head-driven Phrase Structure Grammar feature structures to \LaTeX
 
-=head1 VERSION
-
-Version 0.01
-
 =cut
-
-our $VERSION = '0.01';
 
 use base qw( HTML::Mason::Interp );
 

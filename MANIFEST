@@ -24,3 +24,4 @@ share/comps/syn.mas
 share/comps/tree.mas
 share/comps/val.mas
 t/00-load.t
+SIGNATURE                                Public-key signature (added by MakeMaker)
